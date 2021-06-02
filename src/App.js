@@ -1,6 +1,6 @@
-import './App.css'
-import { BurgerBuilder } from './components/BurgerBuilder'
-import { Layout } from './components/Layout/Layout'
+import "./App.css"
+import { BurgerBuilder } from "./components/BurgerBuilder"
+import { Layout } from "./components/Layout/Layout"
 
 function App() {
   return (
